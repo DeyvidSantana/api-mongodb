@@ -1,9 +1,8 @@
 # api-mongodb
-This project is a simple example of a .NET Core API integrated with MongoDB.
+Este projeto é um exemplo simples de uma API .NET Core integrada ao MongoDB.
 
-
-To verify this you need to have a MongoDB Atlas account. It's necessary to change the connectionString password in appSettings.json to your password.
-Test this project using Postman for get, post, put and delete actions. The scenario is a record about a person infected with COVID-19.
+Para verificar isso, você precisa ter uma conta MongoDB Atlas. É necessário alterar a senha connectionString em appSettings.json para sua senha.
+Teste este projeto usando o Postman para consultar, criar, alterar e excluir informações. O cenário é um registro sobre uma pessoa infectada com COVID-19.
 
 {
     "dataNascimento": "2021-01-03",
